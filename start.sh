@@ -1,0 +1,1 @@
+nohup ./nezha.sh &
